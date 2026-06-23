@@ -83,6 +83,7 @@
 ### 娱乐与创意
 
 - **[AI Dungeon](https://play.aidungeon.io/)** - AI 驱动的文字冒险游戏
+- **[Auferet](https://auferet.com/)** - AI game master for solo text adventures and tabletop RPGs, keeping long-term memory of your story plus your own uploaded lore
 - **[一饭封神](https://github.com/liu-ziting/what-to-eat)** - 智能美食推荐工具
 
 ---
